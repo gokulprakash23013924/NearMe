@@ -129,7 +129,7 @@ Execute the programs and publish them.
     </body>
 </html>
 
-```git
+```
 ## OUTPUT
 ![alt text](<Screenshot (5).png>)
 ![alt text](<Screenshot (7).png>)
