@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+```
 #map.html
 <html>
 <head>
@@ -44,6 +45,8 @@ Execute the programs and publish them.
     </map>
 </body>
 </html>
+```
+```
 #park.html
 <html>
     <head>
@@ -58,6 +61,8 @@ Execute the programs and publish them.
         </center>
     </body>
 </html>
+```
+```
 #neyveli T.S.html
 <html>
     <head>
@@ -72,6 +77,8 @@ Execute the programs and publish them.
         </center>
     </body>
 </html>
+```
+```
 #block-5.html
 <html>
     <head>
@@ -88,6 +95,8 @@ Execute the programs and publish them.
         </center>
     </body>
 </html>
+```
+```
 #NLC general hospital.html
 <html>
     <head>
@@ -102,6 +111,8 @@ Execute the programs and publish them.
         </center>
     </body>
 </html>
+```
+```
 #guest house.html
 <html>
     <head>
@@ -118,7 +129,7 @@ Execute the programs and publish them.
     </body>
 </html>
 
-
+```git
 ## OUTPUT
 ![alt text](<Screenshot (5).png>)
 ![alt text](<Screenshot (7).png>)
